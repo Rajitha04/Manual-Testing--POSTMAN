@@ -1,15 +1,10 @@
 # Manual-Testing--POSTMAN
-#PROJECT 1:
-This Project is about API testing with POSTMAN
+This Repo is about Manual Testing with POSTMAN
+
+Repository consists of two folders REST and SOAP
 
 
-Here we are going to test a SOAP API which converts number into words
+REST: This foler contains projects about testing REST API'S using POSTMAN
 
 
-URL:https://www.dataaccess.com/webservicesserver/NumberConversion.wso
-
-
-#eg: payload = 500,  response = five hundred , response status = 200 OK
-
-
-#Test cases:
+SOAP: This foler contains projects about testing SOAP API'S using POSTMAN
