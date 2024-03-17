@@ -19,7 +19,7 @@ BODY:
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
 
 
-  <soap:Body>
+  <<soap:Body>>
 
   
     <NumberToWords xmlns="http://www.dataaccess.com/webservicesserver/">
